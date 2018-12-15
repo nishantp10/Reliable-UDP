@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.nio.ByteBuffer;
 
-public class Client {
+public class RndClient {
 	
 	public static InetAddress try_ip() {
 	    	
