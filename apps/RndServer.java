@@ -7,7 +7,7 @@ import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Server {
+public class RndServer {
 	
 	public static ArrayList<Byte> get_centroids(ArrayList<ArrayList<Float>> xi) throws NumberFormatException, IOException {
 		
